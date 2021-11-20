@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string name="name">Họ và tên<font color="#FF0000">*</font></string>
+    <string name="id">MSSV<font color="#FF0000">*</font></string>
+    <string name="dob">Ngày sinh<font color="#FF0000">*</font></string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="addr">Địa chỉ</string>
+    <string name="phone">Số điện thoại<font color="#FF0000">*</font></string>
+    <string name="email">Email</string>
+    <string name="hobby">Sở thích</string>
+    <string name="sport">Thể thao</string>
+    <string name="travel">Du lịch</string>
+    <string name="music">Âm nhạc</string>
+    <string name="agree">Đồng ý với điều khoản của ứng dụng</string>
+    <string name="cont">Tiếp tục</string>
+</resources>
