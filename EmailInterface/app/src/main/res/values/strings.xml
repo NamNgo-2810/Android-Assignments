@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EmailInterface</string>
+    <string name="tip">Touch a sender image to select that conversation</string>
+</resources>
